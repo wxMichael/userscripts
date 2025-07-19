@@ -13,7 +13,7 @@ const targetNode = document.querySelector("div.tabcontent");
 const buttonClass = "comment-link-button";
 
 function setClipboard(text) {
-	if (typeof GM !== "undefined" && GM.hasOwn("setClipboard")) {
+	if (typeof GM !== "undefined" && typeof GM.setClipboard === "function") {
 		GM.setClipboard(text);
 	}
 	else if (typeof GM_setClipboard === "function") {
