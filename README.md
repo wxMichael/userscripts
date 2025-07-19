@@ -8,8 +8,8 @@ Some popular extensions:
 * [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)  (Firefox)  
 * [Tampermonkey](https://www.tampermonkey.net/) (Firefox, Edge, Chrome, Opera, Safari)  
 
-| Userscript | Install |
-|:-----------|:-------:|
-| Nexus Mods Comment Links | [Install][NMCL] |
+| Userscript | Install | Description |
+|:-----------|:-------:|:------------|
+| Nexus Mods Comment Links | [Install][NMCL] | Adds a button to comments on Nexus Mods to copy a direct link. |
 
 [NMCL]: https://raw.githubusercontent.com/wxMichael/userscripts/master/scripts/NexusModsCommentLinks.user.js
