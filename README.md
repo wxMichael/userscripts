@@ -3,10 +3,10 @@
 Userscripts require an extension to install and use.  
 Some popular extensions:
 
-* [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)  
-* [Violentmonkey](https://violentmonkey.github.io/get-it/)  
-* [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)  
-* [Tampermonkey](https://www.tampermonkey.net/)  
+* [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) (Firefox)  
+* [Violentmonkey](https://violentmonkey.github.io/get-it/) (Firefox, Edge, Chrome)  
+* [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)  (Firefox)  
+* [Tampermonkey](https://www.tampermonkey.net/) (Firefox, Edge, Chrome, Opera, Safari)  
 
 | Userscript | Install |
 |:-----------|:-------:|
